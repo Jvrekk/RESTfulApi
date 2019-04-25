@@ -1,2 +1,2 @@
 # RESTfulApi
-nodeJs, mongodb, angular
+nodeJs, mongodb
